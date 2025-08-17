@@ -30,5 +30,14 @@
       "orden":"Falconiformes",
       "descripcion":"Conocida también como caracara o chimachimá es un ave propia de América Central y del Sur. Las hembras son más grandes y pesadas entre 310 y 360 gramos, los machos entre 280 y 330 gramos. Posee un plumaje color amarillo castaño claro y las alas castaño obscuro. Es sedentaria aunque se desplaza estacionalmente; habita en zonas donde la vejetación no es muy alta, como pastizales dedicados a la ganadería y campos dedicados a la agricultura. Se alimenta de carroña, pequeños vertebrados artrópodos, frutas y vegetales.",
       "estado_conservacion":"Preocupación menor"
+    },
+    {
+      "nombre_comun": "Golero",
+      "imagen_url": "/img/Golero.jpg",
+      "nombre_cientifico": "Cogragyps atratus",
+      "orden":"Cathartiformes",
+      "descripcion":"Adaptada a entornos urbanos el buitre negro americano, zopilote, chulo o gallinazo es un ave de color negro que mide aproximadamente 74cm de longitud con una envergadura de 167cm. Es una especie muy sociable ensencialmente carroñera pero se puede alimentar de frutas y desperdicios humanos. Se dice también que puede matar pequeños mamiferos u otros animales recien nacidos.",
+      "estado_conservacion":"Preocupación menor"
     }
+
   ]
